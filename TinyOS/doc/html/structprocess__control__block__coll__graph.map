@@ -1,0 +1,10 @@
+<map id="process_control_block" name="process_control_block">
+<area shape="rect" id="node3" href="$structresource__list__node.html" title="List node. " alt="" coords="543,447,673,568"/>
+<area shape="rect" id="node5" href="$structthread__control__block.html" title="The thread control block. " alt="" coords="141,631,283,884"/>
+<area shape="rect" id="node6" href="$structprocess__thread__control__block.html" title="{process_thread_control\l_block\n|+ task\l+ argl\l+ args\l+ exitval\l+ detached\l+ exited\l+ joinFlag\l+ thread_id\l|}" alt="" coords="247,961,404,1156"/>
+<area shape="rect" id="node2" href="$structCondVar.html" title="Condition variables. " alt="" coords="52,20,159,112"/>
+<area shape="rect" id="node9" href="$structfile__control__block.html" title="The file control block. " alt="" coords="785,711,908,803"/>
+<area shape="rect" id="node4" href="$structcore__control__block.html" title="Core control block. " alt="" coords="544,1013,675,1105"/>
+<area shape="rect" id="node7" href="$structdevice__control__block.html" title="Device control block. " alt="" coords="817,211,961,303"/>
+<area shape="rect" id="node8" href="$structfile__operations.html" title="The device&#45;specific file operations table. " alt="" coords="896,5,1003,127"/>
+</map>

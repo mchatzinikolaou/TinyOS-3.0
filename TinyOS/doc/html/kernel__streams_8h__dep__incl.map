@@ -1,0 +1,9 @@
+<map id="kernel_streams.h" name="kernel_streams.h">
+<area shape="rect" id="node2" href="$console_8c_source.html" title="console.c" alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$kernel__dev_8c_source.html" title="kernel_dev.c" alt="" coords="109,80,205,107"/>
+<area shape="rect" id="node4" href="$kernel__init_8c_source.html" title="kernel_init.c" alt="" coords="229,80,321,107"/>
+<area shape="rect" id="node5" href="$kernel__pipe_8c_source.html" title="kernel_pipe.c" alt="" coords="346,80,445,107"/>
+<area shape="rect" id="node6" href="$kernel__proc_8c_source.html" title="kernel_proc.c" alt="" coords="469,80,569,107"/>
+<area shape="rect" id="node7" href="$kernel__socket_8c_source.html" title="kernel_socket.c" alt="" coords="594,80,709,107"/>
+<area shape="rect" id="node8" href="$kernel__streams_8c_source.html" title="kernel_streams.c" alt="" coords="733,80,855,107"/>
+</map>
